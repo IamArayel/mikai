@@ -6,10 +6,10 @@
 
 ## 📖 Indice
 
-- [🇬🇧 English](#english)
-- [🇮🇹 Italiano](#italiano)
+- [🇬🇧 English](#--english)
+- [🇮🇹 Italiano](#--italiano)
 - [🇪🇸 Español](#español)
-- [🇫🇷 Français](#français)
+- [🇫🇷 Français](#--Français)
 - [🇷🇺 Русский](#русский)
 - [📌 Gruppi Telegram](#gruppi-telegram)
 
@@ -46,7 +46,7 @@ Data is protected by **ST25TB04K NFC chips** with **encrypted EEPROM and 32-bit 
 
 ---
 
-## 🇮🇹 Italiano
+## 🇮🇹 Italiano  <a name="italiano"></a>
 
 ### ⚡ Introduzione
 Questo repository documenta le vulnerabilità del sistema di pagamento **Coges MyKey**, in particolare delle chiavi NFC **Srix4K**. L'obiettivo è evidenziare le debolezze nei pagamenti cashless per i distributori automatici e incoraggiare i fornitori a implementare misure di sicurezza più robuste.
@@ -76,8 +76,39 @@ I dati sono protetti da **chip NFC ST25TB04K** con **EEPROM crittografata e cont
 🚀 **I sistemi di pagamento cashless devono evolversi per prevenire sfruttamenti.**
 
 ---
+# 🇫🇷 Français
 
-## 📌 Gruppi Telegram
+### ⚡ Introduction
+Ce référentiel documente les vulnérabilités du système de paiement **Coges MyKey**, plus précisément dans **MyKey avec les puces NFC Srix4K**. L'objectif est de mettre en évidence les faiblesses de sécurité dans les **transactions de distributeurs automatiques sans espèces** et d'encourager les fournisseurs à **adopter des mesures de sécurité plus strictes**.
+
+La recherche est basée sur **Flipper Zero (Unleashed 0.65)** et vise à **documenter et signaler les activités frauduleuses**.
+
+### 🛠️ Fonctionnement de MyKey
+Le système **Coges MyKey** est une **clé NFC prépayée** pour les distributeurs automatiques. Il fonctionne sur **ISO14443-2 Type B** et stocke :
+- **Crédits utilisateur**
+- **Historique des transactions**
+- **Données d'identification du fournisseur**
+
+Les données sont protégées par des **puces NFC ST25TB04K** avec **EEPROM crypté et compteurs 32 bits** pour empêcher les modifications non autorisées.
+
+### 🔍 Analyse des vulnérabilités
+- Le **Flipper Zero** peut **lire et vider les données NFC** depuis MyKey.
+- La puce **ST25TB04K contient un solde de crédit** en blocs EEPROM.
+- **Le clonage de MyKey** sur des tags NFC vierges est possible.
+- **La modification du crédit** peut s'effectuer via **des techniques de bypass de checksum**.
+
+
+### 🛡️ Recommandations de sécurité
+✅ **Mises à jour du Firmware**  
+✅ **Détection d'anomalies pour fraude**  
+✅ **Protocoles de chiffrement plus stricts**  
+✅ **Éléments sécurisés avec protection contre les manipulations frauduleuses**  
+
+🚀 **Les systèmes de paiement Cashless doivent évoluer pour empêcher leur exploitation.**
+
+---
+
+# 📌 Gruppi Telegram
 📌 **Gruppo Principale:** [Unisciti Qui](https://t.me/joinchat/PjejVk6LbnKu-O7zQMEM3Q)  
 📌 **Aggiornamenti Software:** [Mikai Downloads](https://t.me/mikaidownload)  
 📌 **Hub di Hacking:** [Mikai App](https://t.me/mikai_app)  
