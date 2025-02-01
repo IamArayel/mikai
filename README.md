@@ -6,12 +6,12 @@
 
 ## 📖 Indice
 
-- [🇬🇧 English](#--english)
-- [🇮🇹 Italiano](#--italiano)
-- [🇪🇸 Español](#español)
+- [🇬🇧 English](#-english)
+- [🇮🇹 Italiano](#-italiano)
 - [🇫🇷 Français](#-Français)
-- [🇷🇺 Русский](#русский)
-- [📌 Gruppi Telegram](#gruppi-telegram)
+- _[🇪🇸 Español](#español)_
+- _[🇷🇺 Русский](#русский)_
+- [📌 Gruppi Telegram](#-gruppi-telegram)
 
 ---
 
