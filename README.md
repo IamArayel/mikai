@@ -9,8 +9,8 @@
 - [🇬🇧 English](#-English)
 - [🇮🇹 Italiano](#-Italiano)
 - [🇫🇷 Français](#-Français)
-- _[🇪🇸 Español](#-Español)_
-- _[🇷🇺 Русский](#-Pусский)_
+- _[🇪🇸 Español](#-Español) traduction needed_
+- _[🇷🇺 Русский](#-Pусский) traduction needed_
 - [📌 Gruppi Telegram](#-Gruppi-Telegram)
 
 ---
