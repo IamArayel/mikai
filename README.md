@@ -46,7 +46,7 @@ Data is protected by **ST25TB04K NFC chips** with **encrypted EEPROM and 32-bit 
 
 ---
 
-## 🇮🇹 Italiano  <a name="italiano"></a>
+## 🇮🇹 Italiano
 
 ### ⚡ Introduzione
 Questo repository documenta le vulnerabilità del sistema di pagamento **Coges MyKey**, in particolare delle chiavi NFC **Srix4K**. L'obiettivo è evidenziare le debolezze nei pagamenti cashless per i distributori automatici e incoraggiare i fornitori a implementare misure di sicurezza più robuste.
