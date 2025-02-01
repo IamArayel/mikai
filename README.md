@@ -9,7 +9,7 @@
 - [🇬🇧 English](#--english)
 - [🇮🇹 Italiano](#--italiano)
 - [🇪🇸 Español](#español)
-- [🇫🇷 Français](#--Français)
+- [🇫🇷 Français](#-Français)
 - [🇷🇺 Русский](#русский)
 - [📌 Gruppi Telegram](#gruppi-telegram)
 
